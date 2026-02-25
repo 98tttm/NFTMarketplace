@@ -1,0 +1,10 @@
+node_modules
+.next
+.env.local
+.env*.local
+blockchain/node_modules
+blockchain/cache
+blockchain/artifacts
+blockchain/typechain-types
+*.log
+.DS_Store
